@@ -79,6 +79,5 @@ export const LoginContainer = styled.div`
     
     @media screen and (max-width: 500px){
         justify-content: flex-start;
-        margin: 2em 1em;
     }
 `
