@@ -33,7 +33,6 @@ export const LoginContainer = styled.div`
         -webkit-backdrop-filter: blur( 4px );
         border-radius: 10px;
         border: 1px solid rgba( 255, 255, 255, 0.18 );
-        margin-top:2em;
         h1{
             color: #FFF;
         }
@@ -80,5 +79,8 @@ export const LoginContainer = styled.div`
     
     @media screen and (max-width: 500px){
         justify-content: flex-start;
+        main{
+            margin-top:2em;
+        }
     }
 `
