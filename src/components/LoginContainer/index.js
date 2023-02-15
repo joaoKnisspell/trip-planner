@@ -76,4 +76,9 @@ export const LoginContainer = styled.div`
         position:absolute;
         bottom: 0;
     }
+    
+    @media screen and (max-width: 500px){
+        justify-content: flex-start;
+        margin: 2em 1em;
+    }
 `
