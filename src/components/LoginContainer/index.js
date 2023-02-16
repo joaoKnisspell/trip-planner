@@ -33,7 +33,6 @@ export const LoginContainer = styled.div`
         -webkit-backdrop-filter: blur( 4px );
         border-radius: 10px;
         border: 1px solid rgba( 255, 255, 255, 0.18 );
-        margin-botom: 2em;
         h1{
             color: #FFF;
         }
